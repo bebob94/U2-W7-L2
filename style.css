@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(to left, rgb(21, 21, 185), rgb(34, 214, 34));
+  color: white;
+  text-align: center;
+}
+
+.myButton {
+  margin: 2em;
+  background-color: rgb(231, 12, 30);
+  color: black;
+  border-radius: 3em;
+  padding: 5px 30px;
+}
+
+.myButton:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 10px 10px rgb(82, 4, 82);
+  border: none;
+}
+div {
+  margin: 2em;
+}
+
+ul {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin: 1em;
+}
