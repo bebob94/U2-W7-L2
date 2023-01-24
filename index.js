@@ -18,7 +18,7 @@ let p1 = new Person("Giorgio", 28);
 let p2 = new Person("Simone", 25);
 let p3 = new Person("Giulia", 22);
 
-console.log(Person.elder(p2, p1));
+Person.elder(p2, p1);
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>esercizio 2<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
